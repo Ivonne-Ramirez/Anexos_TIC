@@ -1,0 +1,4 @@
+Aquí se encuentran las diversas evidencias recopiladas
+durante el desarrollo del Sprint 2, los mockups de la base
+de los sistemas y los prototipos de alta fidelidad mediante figma 
+elaborados como parte del proceso.

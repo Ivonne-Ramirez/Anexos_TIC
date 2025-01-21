@@ -1,0 +1,5 @@
+Aquí se encuentran las diversas evidencias recopiladas
+durante el desarrollo de las pruebas de usabilidad mediante Google Analytic
+elaborados como parte del proceso.
+(Los Tag assistant tienen los datos recopilados en la interacción tanto 
+para el FrontEnd de la Escuela Politécnica Nacional y la Policia Nacional del Ecuador) 
